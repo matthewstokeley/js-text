@@ -7,4 +7,36 @@ helper methods for strings. required for [js-language](https://github.com/matthe
 
 #### API Documentation
 
+`camelCaseToHyphen`
+
+---
+
+`hyphenToCamelCase`
+
+---
+
+`hyphenToSpace`
+
+---
+
+`isCharacterUpperCase`
+
+---
+
+`lowerCaseWords`
+
+---
+
+`removeTwoSpaces`
+
+---
+
+`spaceToHyphen`
+
+---
+
+`upperCaseWords`
+
+---
+
 
